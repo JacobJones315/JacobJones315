@@ -7,10 +7,10 @@
 
 # [Project 1: Monte Carlo Simulation - Optimal Production Level](https://github.com/JacobJones315/Monte-Carlo-Simulation_Optimal-Production-Level/tree/main)
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
-* Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
+* Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution and a 50% Uniform / 50% normal distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
-![](/images/MCS_fig1.png)
-![](/images/MCS_fig2.png)
+![](/images/MCSfig1.png)
+![](/images/MCSfig2.png)
 
 
 # [Project 2: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
