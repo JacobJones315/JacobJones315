@@ -1,10 +1,9 @@
-# Franklin Tan
+# Jacob Jones
 
 ## My Links
-* [LinkedIn](https://www.linkedin.com/in/franklinjtan/)
-* [Github](https://github.com/franklinjtan)
-* [Book Reads](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV0-0uWWpNxamZL3CbJzEVE6gsGag2Ik7O8Gn5PzjvLQXLtnl_dGavcmdh_MqkBgkChYxQzVF6ksvc/pubhtml)
-* [Cornell University MSBA Data Science Club](https://cornell-msba-ds.github.io/website/)
+* [LinkedIn](https://www.linkedin.com/in/jacob-jones-jj315/)
+* [Github](https://github.com/JacobJones315)
+
 
 # [Project 1: Kickstarter Analytics Capstone Project](https://github.com/franklinjtan/Kickstarter-Analytics)
 ![KS Business Problem](/images/ks_current_challenges.png)
