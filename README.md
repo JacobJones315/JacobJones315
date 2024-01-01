@@ -9,8 +9,8 @@
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution and a 50% Uniform / 50% normal distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
-![](/images/MCSfig1.png)
-![](/images/MCSfig2.png)
+![](/images/MCS_fig1.0.png)
+![](/images/MCS_fig2.0.0.png)
 
 
 # [Project 2: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
