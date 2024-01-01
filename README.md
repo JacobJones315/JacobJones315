@@ -12,6 +12,27 @@
 ![](/images/MCS_fig1.png)
 ![](/images/MCS_fig2.png)
 
+
+# [Project 2: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
+* Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
+  * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
+  * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
+  * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
+  * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
+* Used matplotlib, seaborn, scipy, and pandas to generate line charts, bar charts, scatterplots, groupedby dataframes, and linear regression<br>
+![Avg Ratings by State through the Years](/images/subway_fig_10.png)
+![Total Ratings Received by stars value and years 2018-2021](/images/subway_fig_11.png)
+
+
+
+
+
+
+
+
+
+
+
 # [Project 2: Spendalyzer - A Bank Statement Analytics Application](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics)
 * 2nd Place Winner at the Cornell SC Johnson Data Science Showcase on May 22, 2023
 * Our motivation to address this problem stemmed from our research on the growing credit card debt in the United States and the lack of predictive and prescriptive analytics in budgeting and personal finance apps. While you may receive information on your spending and where it occurs, you typically don't receive real-time feedback on which categories to cut back on, personalized strategies to adopt, or an understanding of your strengths and weaknesses.<br>
