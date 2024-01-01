@@ -9,8 +9,8 @@
 * Created a program simulation written in Python that will generate a production level recommendation given a set of parameters
 * Used NumPy to generate a random sample of demand instances from a normal (Gaussian) distribution.
 * Used matplotlib to generate a scatterplot visualization with a color scale depicting optimal ranges of production
-![]()
-![](/images/fig3.png)
+![](/images/MCS_fig1.png)
+![](/images/MCS_fig2.png)
 
 # [Project 2: Spendalyzer - A Bank Statement Analytics Application](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics)
 * 2nd Place Winner at the Cornell SC Johnson Data Science Showcase on May 22, 2023
