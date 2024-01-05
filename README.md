@@ -13,7 +13,7 @@
 ![](/images/MCS_fig2.0.0.png)
 
 
-# [Project 2: Subway Yelp Reviews Analysis](https://github.com/franklinjtan/Subway-Yelp-Reviews-Analysis)
+# [Project 2: Subway Yelp Reviews Analysis]https://github.com/JacobJones315/Subway_Yelp_Review-Analysis
 * Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
