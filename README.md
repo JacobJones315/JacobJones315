@@ -28,7 +28,7 @@
 * Developed a series of data visualizations illustrating how an individual weapon's bullet velocity and distance to the target influence the projectile's trajectory and the likelihood of hitting its intended mark if the target is moving.
 * Used matplotlib, seaborn, and pandas to generate line charts, heatmaps, and dataframes.
 ![](/images/COD_SuccessHMfig1.png)
-![](/images/COD_BTTfig2.png)
+![](/images/CODBTTfig2.png)
 
 
 # [Project 3: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
