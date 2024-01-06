@@ -23,7 +23,7 @@
 ![](/images/Subway_fig2.png)
 ![](/images/Subway_fig11.png)
 
-# [Project 3: Call of Duty Warzone: Projectile Weapons Time to Impact](https://github.com/JacobJones315/Call_of_Duty_Warzone/blob/main/README.md)
+# [Project 3: Call of Duty Warzone: Projectile Weapons Time to Impact](https://github.com/JacobJones315/Call_of_Duty_Warzone)
 * With the introduction of Call of Duty Warzone in 2019 simply aiming at your target was no longer sufficient, depending on the distance and weapon being used leading your projectile became necessary. 
 * Developed a series of data visualizations illustrating how an individual weapon's bullet velocity and distance to the target influence the projectile's trajectory and the likelihood of hitting its intended mark if the target is moving.
 * Used matplotlib, seaborn, and pandas to generate line charts, heatmaps, and dataframes.
