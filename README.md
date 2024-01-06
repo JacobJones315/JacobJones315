@@ -27,8 +27,8 @@
 * With the introduction of Call of Duty Warzone in 2019 simply aiming at your target was no longer sufficient, depending on the distance and weapon being used leading your projectile became necessary. 
 * Developed a series of data visualizations illustrating how an individual weapon's bullet velocity and distance to the target influence the projectile's trajectory and the likelihood of hitting its intended mark if the target is moving.
 * Used matplotlib, seaborn, and pandas to generate line charts, heatmaps, and dataframes.
-![](/images/dashboard.jpeg)
-![](/images/Spendalyzer.png)
+![](/images/COD_SuccessHMfig1.png)
+![](/images/COD_BTTfig2.png)
 
 
 # [Project 3: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
