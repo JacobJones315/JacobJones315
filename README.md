@@ -20,27 +20,15 @@
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
 * Used matplotlib, seaborn, and pandas to generate line charts, bar charts, and group by dataframes.
-![Avg Ratings by State through the Years](/images/Subway_fig2.png)
-![Total Ratings Received by stars value and years 2018-2021](/images/Subway_fig11.png)
+![](/images/Subway_fig2.png)
+![](/images/Subway_fig11.png)
 
+# [Project 3: Call of Duty Warzone: Projectile Weapons Time to Impact] 
+* Developed a series of data visualizations illustrating how an individual weapon's bullet velocity and distance to the target influence the projectile's trajectory and the likelihood of hitting its intended mark.
+* Used matplotlib, seaborn, and pandas to generate line charts, heatmaps, and dataframes.
+![](/images/dashboard.jpeg)
+![](/images/Spendalyzer.png)
 
-
-
-
-
-
-
-
-
-
-# [Project 2: Spendalyzer - A Bank Statement Analytics Application](https://github.com/franklinjtan/Spendalyzer-Bank-Statement-Analytics)
-* 2nd Place Winner at the Cornell SC Johnson Data Science Showcase on May 22, 2023
-* Our motivation to address this problem stemmed from our research on the growing credit card debt in the United States and the lack of predictive and prescriptive analytics in budgeting and personal finance apps. While you may receive information on your spending and where it occurs, you typically don't receive real-time feedback on which categories to cut back on, personalized strategies to adopt, or an understanding of your strengths and weaknesses.<br>
-* Our solution incorporates the OKR and KPI measurement framework to track spending data and establish a realistic budget. We utilize ML models like Naive Bayes to classify transactions as necessities or not, advanced forecasting methods to predict categories of overspending and prescribe strategies to take, gamification to encourage healthy spending habits, and a Chrome Extension that analyzes your recent purchase history and engages System 2 (deliberate thinking) to prevent impulse purchases.<br>
-* Used pandas, numpy, dash, nltk, panel, and plotly libraries for data wrangling, data visualizations, web application framework, ML algorithms, and dashboard deployment.
-![Dashboard](/images/dashboard.jpeg)
-![Spendalyzer](/images/Spendalyzer.png)
-![Recommendations](/images/SMA-and-ES-Forecasting.png)
 
 # [Project 3: Supplemental Nutrition Assistance Program: Consumer Behavior Analysis with Python](https://github.com/franklinjtan/Food-Stamps-Consumer-Behavior-Analysis/tree/main)
 I conducted a comprehensive consumer behavior analysis for the Supplemental Nutrition Assistance Program (SNAP) using Python. SNAP is a food assistance program in the US for low-income households. The analysis aimed to understand the psychological mechanisms driving SNAP households' tendencies to purchase unhealthy, hedonic food items. The research identified key insights and made recommendations to the USDA Director to reduce unhealthy food consumption among SNAP participants.<br>
