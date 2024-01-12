@@ -19,7 +19,7 @@
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
-* Used matplotlib, seaborn, and pandas to generate line charts, bar charts, and group by dataframes.
+* Used matplotlib, seaborn, and pandas to generate line charts, bar charts, and grouped-by dataframes.
 ![](/images/Subway_fig2.png)
 ![](/images/Subway_fig11.png)
 
@@ -30,8 +30,11 @@
 ![](/images/COD_SuccessHMfig1.png)
 ![](/images/CODBTTfig2.png)
 
-
-
+# [Project 4: Netflix Movie Data: Exploratory Analysis]
+* Conducted a series of analyses and crafted data visualizations to investigate the trend of Netflix movie durations over time.
+* Employed tools such as matplotlib, pandas, and seaborn to generate diverse visual representations, including line charts, bar charts, histograms, scatterplots, and grouped-by dataframes.
+![](/images/COD_SuccessHMfig1.png)
+![](/images/CODBTTfig2.png)
 
 # Certificates:
 
