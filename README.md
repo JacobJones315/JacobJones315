@@ -33,8 +33,9 @@
 # [Project 4: Netflix Movie Data: Exploratory Analysis]
 * Conducted a series of analyses and crafted data visualizations to investigate the trend of Netflix movie durations over time.
 * Employed tools such as matplotlib, pandas, and seaborn to generate diverse visual representations, including line charts, bar charts, histograms, scatterplots, and grouped-by dataframes.
-![](/images/COD_SuccessHMfig1.png)
-![](/images/CODBTTfig2.png)
+  
+![](/images/Netflix_fig5.png)
+![](/images/Netflix_fig2.png)
 
 # Certificates:
 
