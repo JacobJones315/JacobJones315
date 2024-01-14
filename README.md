@@ -38,4 +38,5 @@
 ![](/images/Netflix_fig2.png)
 
 # Certificates:
-
+* [Intermediate Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Intermediate_Python.pdf)
+* [Introduction to Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Introduction_to_Python.pdf)
