@@ -19,14 +19,15 @@
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
-* Used matplotlib, seaborn, and pandas to generate line charts, bar charts, and grouped-by dataframes.
+* Used matplotlib, seaborn, and pandas to generate line charts, bar charts, and grouped-by DataFrames.
 ![](/images/Subway_fig2.png)
 ![](/images/Subway_fig11.png)
 
 # [Project 3: Call of Duty Warzone: Projectile Weapons Time to Impact](https://github.com/JacobJones315/Call_of_Duty_Warzone)
-* With the introduction of Call of Duty Warzone in 2019 simply aiming at your target was no longer sufficient, depending on the distance and weapon being used leading your projectile became necessary. 
-* Developed a series of data visualizations illustrating how an individual weapon's bullet velocity and distance to the target influence the projectile's trajectory and the likelihood of hitting its intended mark if the target is moving.
-* Used matplotlib, seaborn, and pandas to generate line charts, heatmaps, and dataframes.
+* The advent of Call of Duty Warzone in 2019 brought about a shift where merely aiming at your target was no longer adequate. Depending on the distance and the weapon in use, leading your projectile became imperative.
+* Crafted a set of data visualizations depicting the impact of an individual weapon's bullet velocity and distance to the target on the trajectory of the projectile. Explored how these factors influence the likelihood of hitting a moving target accurately.
+ 
+* Used matplotlib, seaborn, and pandas to generate line charts, heatmaps, and DataFrames.
 ![](/images/COD_SuccessHMfig1.png)
 ![](/images/CODBTTfig2.png)
 
