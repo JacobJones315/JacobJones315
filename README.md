@@ -14,7 +14,7 @@
 
 
 # [Project 2: Subway Yelp Reviews Analysis](https://github.com/JacobJones315/Subway_Yelp_Review-Analysis)
-* Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
+* Conducted a series of analyses and data visualizations to either validate or refute statements put forth by Subway Restaurant leadership.
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
