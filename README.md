@@ -21,6 +21,7 @@
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
 * Used matplotlib, seaborn, and pandas to generate line charts, bar charts, and grouped-by DataFrames.
+  
 ![](/images/Subway_fig2.png)
 ![](/images/Subway_fig11.png)
 
@@ -29,6 +30,7 @@
 * Crafted a set of data visualizations depicting the impact of an individual weapon's bullet velocity and distance to the target on the trajectory of the projectile. Explored how these factors influence the likelihood of hitting a moving target accurately.
  
 * Used matplotlib, seaborn, and pandas to generate line charts, heatmaps, and DataFrames.
+  
 ![](/images/COD_SuccessHMfig1.png)
 ![](/images/CODBTTfig2.png)
 
