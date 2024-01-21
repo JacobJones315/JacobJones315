@@ -41,7 +41,12 @@
 ![](/images/Netflix_fig5.png)
 ![](/images/Netflix_fig2.png)
 
-# [Project 5: NYC Public School SAT Test Result Analysis](https://github.com/JacobJones315/Netflix_Movie_Data_Analysis)
+# [Project 5: NYC Public School SAT Test Result Analysis](https://github.com/JacobJones315/NYC_Public_School_SAT_Analysis)
+* Performed a series of analyses and data visualizations to conclude the top puplic schools located in New York City by average SAT scores.
+* Used matplotlib, seaborn, and pandas to generate bar charts, heatmap, line chart, and grouped-by DataFrames.
+
+
+
 
 # Certificates:
 * [Intermediate Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Intermediate_Python.pdf)
