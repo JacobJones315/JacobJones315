@@ -43,8 +43,10 @@
 
 # [Project 5: NYC Public School SAT Test Result Analysis](https://github.com/JacobJones315/NYC_Public_School_SAT_Analysis)
 * Performed a series of analyses and data visualizations to conclude the top puplic schools located in New York City by average SAT scores.
-* Used matplotlib, seaborn, and pandas to generate bar charts, heatmap, line chart, and grouped-by DataFrames.
+* Used matplotlib, seaborn, and pandas to generate a heatmap, line chart, bar charts and grouped-by DataFrames.
 
+![](/images/NYC_BC1.png)
+![](/images/NYC_BC2.png)
 
 
 
