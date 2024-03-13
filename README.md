@@ -49,6 +49,8 @@
 ![](/images/NYC_BC2.png)
 
 # [Project 6: Exploring the Golden Age of Video Games: SQL Analysis]
+* Utilized advanced SQL techniques including joins, set theory, and subqueries to extract comprehensive data from multiple tables, enabling an insightful analysis to pinpoint the Golden Years of gaming.
+* Applied SQL aggregation functions and sophisticated sorting methods to identify the industry's top-performing video games based on sales figures, critic reviews, and user ratings, providing valuable insights into market trends and consumer preferences.
 
 
 # Certificates:
