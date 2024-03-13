@@ -48,7 +48,7 @@
 ![](/images/NYC_BC1.png)
 ![](/images/NYC_BC2.png)
 
-# [Project 6: Exploring the Golden Age of Video Games through SQL Analysis]
+# [Project 6: Exploring the Golden Age of Video Games: SQL Analysis]
 
 
 # Certificates:
