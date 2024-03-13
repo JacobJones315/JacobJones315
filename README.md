@@ -8,7 +8,7 @@
 # [Project 1: Monte Carlo Simulation - Optimal Production Level](https://github.com/JacobJones315/Monte-Carlo-Simulation_Optimal-Production-Level/tree/main)
 * Developed a Python program simulation aimed at generating production-level recommendations based on a set of specified parameters.
 * Employed NumPy to create random samples of demand instances, utilizing both a normal (Gaussian) distribution and a 50% Uniform / 50% normal distribution.
-* Utilized Matplotlib to craft a scatterplot visualization, incorporating a color scale to highlight optimal production ranges
+* Utilized Matplotlib to craft a scatterplot visualization, incorporating a color scale to highlight optimal production ranges.
   
 ![](/images/MCS_fig1.0.png)
 ![](/images/MCS_fig2.0.0.png)
