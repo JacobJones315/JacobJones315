@@ -55,3 +55,5 @@
 * [Introduction to Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Introduction_to_Python.pdf)
 * [Data_Manipulation_with_pandas](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Data_Manipulation_with_pandas.pdf)
 * [Introduction_to_SQL](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Introduction_to_SQL.pdf)
+* [Intermediate_SQL](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Intermediate%20SQL.pdf)
+* [Joining Data in_SQL](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Joining%20Data%20in%20SQL.pdf)
