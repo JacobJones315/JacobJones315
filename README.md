@@ -56,6 +56,11 @@
 
 ![](/images/Sales_in_the_Golden_Years_of_Gaming.png)
 
+# [Project 7: Promotional Campaign Analysis for Quick Dosa's Takeout Business: Leveraging A/B Testing and Statistical Analysis]
+* Utilized pivot tables, Excel filtering, and chi-square analysis to compare Promotion A and Promotion B, assessing revenue, promotional costs, ad-exposure costs, click-through rate, and statistical significance. This enabled strategic decision-making for revenue maximization and cost minimization.
+* Employed chi-square analysis alongside return on advertising and click-through rate, to determine the optimal promotion for wider rollout, ensuring decisions are based on a comprehensive evaluation of promotional effectiveness and advertising efficiency.
+
+
 
 # Certificates:
 * [Intermediate Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Intermediate_Python.pdf)
