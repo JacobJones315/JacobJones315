@@ -49,8 +49,12 @@
 ![](/images/NYC_BC2.png)
 
 # [Project 6: Exploring the Golden Age of Video Games: SQL Analysis](https://github.com/JacobJones315/Golden_Age_of_Video_Games)
-* Utilized advanced SQL techniques including joins, set theory, and subqueries to extract comprehensive data from multiple tables, enabling an insightful analysis to pinpoint the Golden Years of gaming.
-* Applied SQL aggregation functions and sophisticated sorting methods to identify the industry's top-performing video games over the years based on games sold, critic reviews, and user ratings while providing valuable insights into market trends and consumer preferences.
+* Utilized advanced PostgreSQL techniques including joins, set theory, and subqueries to extract comprehensive data from multiple tables, enabling an insightful analysis to pinpoint the Golden Years of gaming, while providing valuable insights into market trends and consumer preferences.
+* Applied SQL aggregation functions and sophisticated sorting methods to identify the industry's top-performing video games over the years based on games sold, critic reviews, and user ratings. 
+
+![](/images/Years_both_players_and_critics_loved.png)
+
+![](/images/Sales_in_the_Golden_Years_of_Gaming.png)
 
 
 # Certificates:
