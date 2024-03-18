@@ -61,8 +61,7 @@
 * Employed chi-square analysis alongside return on advertising and click-through rate, to determine the optimal promotion for wider rollout, ensuring decisions are based on a comprehensive evaluation of promotional effectiveness and advertising efficiency.
 
 ![](/images/Promotion_A-B_ROA_Data1.png)
-
-![](/images/Promotion_A-B_ROA_Calculations.png)
+![](/images/Promotion_A-B_ROA_Calculations1.png)
 
 # Certificates:
 * [Intermediate Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Intermediate_Python.pdf)
