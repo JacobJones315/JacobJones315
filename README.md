@@ -53,7 +53,6 @@
 * Applied SQL aggregation functions and sorting methods to identify the industry's top-performing video games over the years based on games sold, critic reviews, and user ratings. 
 
 ![](/images/Years_both_players_and_critics_loved.png)
-
 ![](/images/Sales_in_the_Golden_Years_of_Gaming.png)
 
 # [Project 7: Promotional Campaign Analysis for Quick Dosa's Takeout Business: Leveraging A/B Testing and Statistical Analysis](https://github.com/JacobJones315/Quick_Dosa_Promotional_Campaign_Analysis)
