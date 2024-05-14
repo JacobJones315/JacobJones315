@@ -62,6 +62,15 @@
 ![](/images/Promotion_A-B_ROA_Data1.png)
 ![](/images/Promotion_A-B_ROA_Calculations4.png)
 
+# [Project 8: Predicting Future Boston Blue Bike Subscribers and Customers: Optimizing Station Bike Numbers]
+* Forecasted future subscriber and customer bike rentals both overall and by zip code, enabling the crafting of targeted marketing strategies to increase customer numbers.
+* Utilized data analysis to identify the top three most used bike stations in the city of Boston and created a dynamic dashboard which optimizes the saftey stock of bikes on a hourly basis for each month, ensuring an optimal experience for customers by maintaining appropriate bike availability.
+
+
+
+
+
+
 # Certificates:
 * [Intermediate Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Intermediate_Python.pdf)
 * [Introduction to Python](https://github.com/JacobJones315/JacobJones315/blob/main/Certificates/Introduction_to_Python.pdf)
