@@ -63,8 +63,9 @@
 ![](/images/Promotion_A-B_ROA_Calculations4.png)
 
 # [Project 8: Predicting Future Boston Blue Bike Subscribers and Customers: Optimizing Station Bike Numbers](https://github.com/JacobJones315/Boston_Bike_Share)
-* Forecasted future subscriber and customer bike rentals both overall and by zip code, enabling the crafting of targeted marketing strategies to increase customer numbers.
-* Utilized data analysis to identify the top three most used bike stations in the city of Boston and created a dynamic dashboard which optimizes the saftey stock of bikes on a hourly basis for each month. This ensures an optimal experience for customers by maintaining appropriate bike availability.
+* Forecasted future subscriber and customer bike rentals, (Continue)
+* crafted marketing strategies for specific zip codes within Boston enabling the crafting of targeted marketing strategies to increase customer numbers. (Continue)
+* Utilized data analysis to identify the most used bike stations in the city of Boston and created a dynamic dashboard which optimizes the saftey stock of bikes on a hourly basis for each month individually. This ensures an optimal experience for customers by maintaining appropriate bike availability.
 
 
 
